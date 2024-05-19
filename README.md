@@ -17,4 +17,4 @@ I'm currently building a lot with Ruby on Rails. It only took me 8 years to get 
 I've built countless services and tools with Node and React, and still consider Typescript an incredible tool in my toolbox.
 I'm very bullish on deno and think it could do for JS what Rails did for Ruby, given enough commitment to opinionated development.
 
-I love bash despite it being frowned-upon by some.
+Bash is a love-letter to hackers everywhere, and you can't convince me otherwise.
