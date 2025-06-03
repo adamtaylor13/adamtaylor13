@@ -1,8 +1,9 @@
 # Hey there! I'm Adam 👋🏻
 
 
-As full-stack software engineer, with over 8 years of experience building companies' most vital products, I've built countless user experiences across the web, mobile, and desktop.
-I identify blockers and build solutions to streamline work.
+I've spent over 8 years as a full-stack software engineer, building products and internal tooling for various companies ranging in size from 15 employees to 500+.
+I've built countless user experiences across the web, mobile, terminal, and desktop.
+I identify and fix blockers and help build solutions to streamline work.
 I help companies and individuals simplify hard problems, focus on the things that matter, and delight their customers.
 
 You may be interested in:
